@@ -2,6 +2,8 @@
 
 Send messages and crypto to the owner of the contract.
 
+![demo](./demo.gif)
+
 ## How to use
 
 Install dependencies: `npm install`
